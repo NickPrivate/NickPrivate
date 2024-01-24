@@ -1,4 +1,12 @@
-### Hi there 👋
+## 👋 Hello World! I'm Nick  
+
+Junior @ CSUF studying Comp. Sci.  
+
+Persuing SWE but enjoy all facets of computer science including application dev, web dev, game dev, cyber security, and more.
+
+## 🛠Skills:  
+``` C++, Python, Java, JavaScript, x86_64 Assembly, PHP, HTML5, CSS, Git, mySQL, VSCode```
+
 
 <!--
 **NickPrivate/NickPrivate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
