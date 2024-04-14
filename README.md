@@ -2,10 +2,10 @@
 
 Junior @ CSUF studying Comp. Sci.  
 
-Persuing SWE but enjoy all facets of computer science including application dev, web dev, game dev, cyber security, and more.
+Persuing SWE but enjoy all facets of computer science including app dev, web dev, game dev, software security, and more.
 
 ## 🛠Skills:  
-``` C++, Python, Java, JavaScript, x86_64 Assembly, PHP, HTML5, CSS, Git, mySQL, VSCode```
+``` C++, Python, JavaScript, x86_64 Assembly, PHP, HTML/CSS, Git, mySQL, Neovim```
 
 
 <!--
