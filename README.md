@@ -1,11 +1,11 @@
 ## 👋 Hello World! I'm Nick  
 
-Junior @ CSUF studying Comp. Sci.  
+Junior @ CSUF studying Computer Science
 
-Persuing SWE but enjoy all facets of computer science including app dev, web dev, game dev, software security, and more.
+Persuing SWE but enjoy all facets of computer science including app dev, web dev, game dev, and software security.
 
 ## 🛠Skills:  
-``` C++, Python, JavaScript, x86_64 Assembly, PHP, HTML/CSS, Git, mySQL, Neovim```
+``` C++, Python, JavaScript, PHP, HTML/CSS, Tailwind CSS, Git, SQL, Neovim```
 
 
 <!--
