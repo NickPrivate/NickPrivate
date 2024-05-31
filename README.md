@@ -1,6 +1,6 @@
 ## 👋 Hello World! I'm Nick  
 
-Junior @ CSUF studying Computer Science
+Incoming Senior @ CSUF studying Computer Science
 
 Persuing SWE but enjoy all facets of computer science including app dev, web dev, game dev, and software security.
 
