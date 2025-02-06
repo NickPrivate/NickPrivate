@@ -1,5 +1,5 @@
 # 💫 About Me:
-Incoming Senior @ CSUF studying Computer Science<br><br>
+Senior @ CSUF studying Computer Science<br><br>
 
 Persuing SWE but enjoy all facets of computer science including app dev, web dev, game dev, and software security.
 
